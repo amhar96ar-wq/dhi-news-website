@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Waheed';
+  src: url('fonts/waheed.otf');
+}
+@font-face {
+  font-family: 'Aamu';
+  src: url('fonts/aamu.ttf');
+}
+
+body {
+  font-family: 'Waheed', sans-serif;
+}
+h1, h2 {
+  font-family: 'Aamu', sans-serif;
+}
